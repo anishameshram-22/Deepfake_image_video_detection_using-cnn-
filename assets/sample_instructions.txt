@@ -1,0 +1,5 @@
+To test this app:
+- For images: use any face photo saved as JPG or PNG
+- For videos: use any MP4 file containing a face
+- The model works best on clear, front-facing faces
+- Compressed or blurry inputs may reduce accuracy
